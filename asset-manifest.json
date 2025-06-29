@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Frontend_prototype/static/css/main.30b1ab8c.css",
+    "main.js": "/Frontend_prototype/static/js/main.d7ceecfc.js",
+    "index.html": "/Frontend_prototype/index.html",
+    "main.30b1ab8c.css.map": "/Frontend_prototype/static/css/main.30b1ab8c.css.map",
+    "main.d7ceecfc.js.map": "/Frontend_prototype/static/js/main.d7ceecfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b1ab8c.css",
+    "static/js/main.d7ceecfc.js"
+  ]
+}
